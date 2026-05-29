@@ -1,0 +1,10 @@
+{
+  "name": "Soil & Crop Classifier",
+  "description": "Identify soil type from a photograph and recommend perfectly suited crops. Supports English, Hindi, and Odia.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
